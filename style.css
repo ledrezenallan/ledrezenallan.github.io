@@ -281,7 +281,7 @@ header .text {
 
 .docs {
     display: flex;
- height: 500px;
+ height: 100vh;
  width: 100vw;
  background: linear-gradient(
  rgba(0, 0, 0, 0.5), 
